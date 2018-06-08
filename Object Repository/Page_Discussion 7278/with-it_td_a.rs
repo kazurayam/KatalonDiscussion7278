@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>with-it_td_a</name>
+   <tag></tag>
+   <elementGuidId>1effaf47-ac42-4b52-9d6f-28c719ef275c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//table[@id=&quot;with-it&quot;]/tbody/tr/td/a
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//table[@id=&quot;with-it&quot;]/tbody/tr/td/a
+</value>
+   </webElementProperties>
+</WebElementEntity>

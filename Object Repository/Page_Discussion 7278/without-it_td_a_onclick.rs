@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>without-it_td_a_onclick</name>
+   <tag></tag>
+   <elementGuidId>279c77bf-25f7-49be-8d80-5ef9f672cc65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//table[@id=&quot;without-it&quot;]/tbody/tr/td/a[starts-with(@on-click,'javascript:selectday(')]
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//table[@id=&quot;without-it&quot;]/tbody/tr/td/a[starts-with(@on-click,'javascript:selectday(')]
+</value>
+   </webElementProperties>
+</WebElementEntity>

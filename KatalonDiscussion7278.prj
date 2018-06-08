@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>https://forum.katalon.com/discussion/7278/find-the-link-inside-a-table</description>
+   <name>KatalonDiscussion7278</name>
+   <tag></tag>
+   <UUID>8bc26dec-10eb-45bd-95a5-9b1d0d532515</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
